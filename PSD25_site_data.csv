@@ -1,0 +1,19 @@
+project,site_name,site_id,site,site_position,latitude,longitude,treatment,distance_from_edge_m,distance_from_scar_m,total_scar_length_m,notes
+PSD25,Annes Beach,S1.1,1,1,24.84329,-80.74513,scarred,0,0,67,"Single prop scar, additional prop scar passes through scar at 19 m length from start of scar, S1.3 is 11 m past scar intersection, reference position are south of scar (away from highway)"
+PSD25,Annes Beach,S1.2,1,2,24.84329,-80.745,vegetated,0,10,67,"Reference point at S1.2 is just over 3m from an older, grown in scar (same scar that crosses through target scar 19 m in)"
+PSD25,Annes Beach,S1.3,1,3,24.84303,-80.74523,scarred,30,0,67,
+PSD25,Annes Beach,S1.4,1,4,,,vegetated,30,0.25,67,
+PSD25,Annes Beach,S1.5,1,5,,,vegetated,30,1,67,
+PSD25,Annes Beach,S1.6,1,6,24.84302,-80.74511,vegetated,30,10,67,
+PSD25,Craig Key,S2.1,2,1,24.83527,-80.76426,scarred,0,0,46,"Double prop scar, target scar is closest to highway (north), lots of fire spong in interior meadow, scar begins 10 m into meadow from meadow edge, S2.3 placed ~32-33 m in due to vegetated patch in scar at 30 m"
+PSD25,Craig Key,S2.2,2,2,24.83537,-80.76434,vegetated,0,10,46,
+PSD25,Craig Key,S2.3,2,3,24.83512,-80.76452,scarred,30,0,46,
+PSD25,Craig Key,S2.4,2,4,,,vegetated,30,0.25,46,
+PSD25,Craig Key,S2.5,2,5,,,vegetated,30,1,46,
+PSD25,Craig Key,S2.6,2,6,24.8353854,-80.76458,vegetated,30,10,46,
+PSD25,Little Conch,S3.1,3,1,24.78352,-80.89935,scarred,0,0,36,"Double prop scar, target scar is closest to highway (north), scar begins 2 m from meadow edge, edge of meadow is very defined, patches of overgrowth or preserved seagrass in a patch near the middle of the scar, reference positions are in direction of highway (north)"
+PSD25,Little Conch,S3.2,3,2,24.78353,-80.89948,vegetated,0,10,36,
+PSD25,Little Conch,S3.3,3,3,24.78329,-80.89932,scarred,30,0,36,
+PSD25,Little Conch,S3.4,3,4,,,vegetated,30,0.25,36,
+PSD25,Little Conch,S3.5,3,5,,,vegetated,30,1,36,
+PSD25,Little Conch,S3.6,3,6,24.78327,-80.89943,vegetated,30,10,36,
