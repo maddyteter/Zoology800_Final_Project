@@ -5,7 +5,7 @@ library(ggplot2)
 library(purrr)
 
 #Set working directory 
-setwd("C:/Users/maddy/Box/Propeller Scar Decomp 2025/Data/CSV Data Files")
+setwd("C:/Users/maddy/OneDrive/Grad Classes/Zoology 800/Zoology800_Final_Project")
 
 
 #PSD25 Decomposition values
